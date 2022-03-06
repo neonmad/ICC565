@@ -1,0 +1,163 @@
+body{
+	background-color: #ffffff;
+}
+
+.bg-color{
+	background-color: #ffffff;
+}
+
+.bg-color1{
+	background-color: #fca2b0;
+}
+
+h1{
+	font-size: 36px;
+	font-family: 'PT Sans', sans-serif;
+	color: #000000;
+	font-weight: 900;
+}
+
+h4{
+	font-size: 18px;
+	font-family: 'PT Sans', sans-serif;
+	color: #000000;
+}
+
+h3{
+	font-size: 26px;
+	font-family: 'PT Sans', sans-serif;
+	color: #029f00;
+	font-weight: 900;
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+}
+
+.bold{
+	font-weight: 200;
+}
+
+.bold1{
+	font-weight: 900;
+}
+
+.normal {
+	color: #029f00;
+	text-decoration: none;
+}
+
+.normal:hover{
+	text-decoration: underline;
+	color: #e06af7;
+}
+
+.names{
+	font-weight: 900;
+	color: #fca2b0;
+}
+
+.quote{
+	font-style: italic;
+}
+
+.fa{
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover{
+  opacity: 0.7;
+}
+
+.fa-facebook{
+  background: #3B5998;
+  color: #ffffff;
+}
+
+.fa-twitter{
+  background: #55ACEE;
+  color: #ffffff;
+}
+
+.fa-linkedin{
+  background: #007bb5;
+  color: #ffffff;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figure{
+	margin: 0;
+}
+
+figcaption{
+  text-align: center;
+}
+
+.list-group-item{
+	border-width: 0px;
+}
+
+.sidebar{
+	color: #029f00;
+}
+
+.sidelinks{
+	color: #029f00;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: 'PT Sans', sans-serif;
+	margin-bottom: 50px;
+}
+
+.sidelinks:hover{
+	text-decoration: underline;
+	color: #000000;
+}
+
+.copyright{
+	font-size: 12px;
+}
+
+.logo{
+	padding: 10px;
+}
+
+.btn-primary{
+	background-color: #ffd31a;
+	border-width: 0px;
+	color: #000000;
+}
+
+.btn-primary:hover{
+	color: #ffffff;
+	background-color: #000000;
+}
+
+.btn{
+	border-radius: 0;
+}
+
+.jumbotron{
+	text-align: left;
+	background-color: #95bf47;
+	border: 0px solid #000000;
+	background-position: right;
+	background-image: url('../images/art4.png');
+	background-size: 480px 270px;
+	background-repeat: no-repeat;
+	color: #ffffff;
+	height: 270px;
+	text-shadow: 0 0 5;
+}
